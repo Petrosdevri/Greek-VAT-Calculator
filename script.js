@@ -25,4 +25,4 @@ resetButton.addEventListener("click", function() {
   vatPrice.value = '';
   priceWithoutVAT.value = '';
   document.getElementById("vat-percent").value = 0.06;
-});
+})
