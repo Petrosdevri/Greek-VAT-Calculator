@@ -1,1 +1,1 @@
-A simple program to calculate Greek VAT rates. 
+A simple web page to calculate Greek VAT rates. 
