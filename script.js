@@ -8,7 +8,7 @@ function calculateVAT() {
   const vatPercent = document.getElementById("vat-percent").value;
   const totalPrice = parseFloat(totalPriceInput.value);
   if (!totalPrice) {
-    alert("Please enter a valid total price");
+    alert("Παρακαλώ συμπληρώστε μια έγκυρη τιμή!");
     return;
   }
   const vatRate = parseFloat(vatPercent);
